@@ -1,4 +1,4 @@
-# biostatistics
+# Biostatistics
 A general purpose repo for repeatedly used R functions in my work as a biostatistician
 
 Log:
